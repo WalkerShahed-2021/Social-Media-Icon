@@ -41,3 +41,13 @@ a:hover {
 .fa-linkedin{
     color: #0e76a8;
 }
+
+@media only screen and (max-width:500px){
+    .sicialMedia{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: .4fr 2fr 1.5fr 1fr .6fr;
+        
+        ;
+    }
+}
