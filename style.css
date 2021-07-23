@@ -1,0 +1,50 @@
+.main-grid{
+    height: 400px;
+    width: 400px;
+    margin: 40px;
+    background-color: gray;
+}
+.grid-make ul li{
+    height: 30px;
+    width: 70px;
+    border: 1px solid;
+    margin: 10px;
+    list-style-type: none;
+    text-align: center;
+    border-radius: 4px;
+    
+}
+.grid-make{
+    margin: 0px 0px 0px 170px;
+    
+}
+.grid-maker1 ul li{
+    height: 30px;
+    width: 70px;
+    border: 1px solid;
+    list-style-type: none;
+    text-align: center;
+    border-radius: 4px;
+    display: inline-block;
+    margin-left: 15px;
+    
+}
+.grid-maker2 ul li{
+    height: 30px;
+    width: 70px;
+    border: 1px solid;
+    margin: 10px;
+    list-style-type: none;
+    text-align: center;
+    border-radius: 4px;
+    
+}
+.main-big{
+    height: 100px;
+    width: 50px;
+    border: 1px solid;
+    margin: 10px;
+    list-style-type: none;
+    text-align: center;
+    border-radius: 4px;
+}

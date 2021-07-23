@@ -1,0 +1,43 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.sicialMedia{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+a{
+    background-color: whitesmoke;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    text-align: center;
+    line-height: 100px;
+    box-shadow: 1px 4px 2px 2px #dcdcdc;
+    margin: 10px;
+    
+}
+a {
+    transition: all .3s linear;
+}
+a:hover {
+    transform: scale(1.5);
+}
+.fa-facebook{
+    color: #39569c ;
+}
+.fa-twitter{
+    color: #26a7de;
+}
+.fa-youtube{
+    color: #c4302b;
+}
+.fa-instagram{
+    color: purple;
+}
+.fa-linkedin{
+    color: #0e76a8;
+}
